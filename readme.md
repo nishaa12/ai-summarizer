@@ -14,9 +14,7 @@
 
   <h3 align="center">An AI Article Summarizer Website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -34,9 +32,6 @@
 
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -247,23 +242,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
-
-Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
 
 
 
